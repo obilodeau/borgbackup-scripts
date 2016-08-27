@@ -1,0 +1,5 @@
+= Borg Backup Scripts
+
+== cron-backup-with-desktop-notifications.sh
+
+This is a simple shell script which will do a desktop notification on a successful or failed backup. It is meant to be run from cron.
